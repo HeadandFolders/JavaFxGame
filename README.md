@@ -56,14 +56,16 @@ Level 4: Stress Out
 • The color will revert to red after 2 seconds.
 • Scoring: Clicking on time adds 10 points to the score, while a miss results in a 
 deduction of 5 points.
+
 <img width="296" alt="stressoutgames" src="https://github.com/HeadandFolders/JavaFxGame/assets/88577004/c475369e-c3e0-4df4-95f1-67465622e74d">
 
 Level 5: Kangaroo race
-<img width="960" alt="kanggames" src="https://github.com/HeadandFolders/JavaFxGame/assets/88577004/6890d487-1601-44bc-a2b7-d44a472bfa42">
-<img width="960" alt="kanggamess" src="https://github.com/HeadandFolders/JavaFxGame/assets/88577004/4368401b-4e15-4e49-96e8-58f7a6861acd">
-
 • At this level, users have 30 seconds to navigate a challenging parkour.
 • The parkour includes obstacles that require either jumping (press 'space') or sliding 
 (press 'D'). 
 • Scoring: Each successful jump earns 10 points, while a failed attempt deducts 5 
 points.
+
+<img width="480" alt="kanggames" src="https://github.com/HeadandFolders/JavaFxGame/assets/88577004/c23268ce-5b6f-4f6e-a613-d8a5225b6bd4">
+<img width="483" alt="kanggamess" src="https://github.com/HeadandFolders/JavaFxGame/assets/88577004/135c2c89-89fb-4cca-a5bb-eb27222672b4">
+
