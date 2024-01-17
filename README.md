@@ -1,8 +1,10 @@
 Part 1: Project Objectives
+
 A simple game consisting of 5 levels using the Java language and Javafx library.
 This was a 2person team project. I was responsible for the Accounts (including signup/login pages and database) and Levels 4 and 5. 
 
 Part 2: Account 
+
 • Users should be able to log in or sign up, with a check in place to prevent duplicate 
 accounts. 
 • Once logged in, users can view their personal information, including the number of 
